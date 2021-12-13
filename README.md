@@ -1,7 +1,7 @@
 # gitcoin climate round
 List of projects part of the Grant Round 12 (GR12)
 
-https://gitcoin.co/grants > [climate change](https://gitcoin.co/grants/explorer/?sub_round_slug=gr12-climate-change&round_num=12&customer_name=ClimateChange) (list curated by [all4climatedao](https://twitter.com/all4climatedao))
+https://gitcoin.co/grants > [climate change](https://gitcoin.co/grants/explorer/?sub_round_slug=gr12-climate-change&round_num=12&customer_name=ClimateChange) (list curated by [@all4climatedao](https://twitter.com/all4climatedao))
 
 ## Highlights 💫
 
